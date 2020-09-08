@@ -31,6 +31,12 @@ social Djib-Social-Media en 24H.
   ### Initialisation 
 
   [X] Initialiser un depot github avec un README.md
+
   [X] Créer un projet Firebase
+
   [X] Générer les fichiers de base avec creat-react-app
+
   [X] Supprimer les fichiers non nécéssaires 
+
+  [ ] Integrer Firebase dans le projet 
+  
