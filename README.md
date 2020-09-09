@@ -38,5 +38,28 @@ social Djib-Social-Media en 24H.
 
   [X] Supprimer les fichiers non nécéssaires 
 
-  [ ] Integrer Firebase dans le projet 
+  [X] Integrer Firebase dans le projet 
+
+  [X] Installer React-router et l'integre dans le projet
   
+  [ ] Créer un system de connexion (route = /user/signup & /user/signin)
+
+      [ ] Permettre au visiteur de s'inscrire (route = /user/signup)
+          
+          [ ] Faire un formulaire d'inscription
+
+          [ ] Valider les données du formulaire
+
+          [ ] Envoyer les données du formulaire à firebase pour procèder à l'inscription
+
+          [ ] Envoyé un email de validation de l'inscription au nouveau membre
+      
+      [ ] Permettre au membre de se connecter (route = /user/signin)
+
+          [ ] Faire un formulaire de connexion
+
+          [ ] Valider les données du formulaire
+
+          [ ] Envoyer les données du formulaire à firebase pour procèder à la connexion
+
+          [ ] Récuperer les données du l'utilisateur 
